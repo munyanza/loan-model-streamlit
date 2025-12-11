@@ -1,9 +1,6 @@
 pandas 
-numpy 
-seaborn 
-matplotlib 
+numpy  
 joblib 
 scikit-learn 
-Xgboost 
+Xgboost==1.7.6 
 streamlit 
-pickle
